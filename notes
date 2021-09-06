@@ -13,3 +13,7 @@ create a new folder you use mkdir
 to check your git username type in as follows : git config user.name
 git manual : man git
  git init : this initializes a repository
+ remember to go to github and create a new repository on there. after that follow the instructions to push to git.
+ to clear terminal window type in the clear command. this does not erase command history.
+ check status of project by using: git status
+
