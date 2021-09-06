@@ -17,4 +17,7 @@ git manual : man git
  to clear terminal window type in the clear command. this does not erase command history.
  check status of project by using: git status
 to commit fi;es do : git add -A (this adds all)
+git reset--soft :regroup changes into different commits
+git reset   : default reset.
+git reset--hard : this will make the most changes for everything
 
