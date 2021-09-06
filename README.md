@@ -1,2 +1,2 @@
 # gitNotes
-Helloooooooooooooo wyd?
+Helloooooooooooooo! in order to view my notes check in 'notes'
