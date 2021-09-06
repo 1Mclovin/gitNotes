@@ -16,4 +16,5 @@ git manual : man git
  remember to go to github and create a new repository on there. after that follow the instructions to push to git.
  to clear terminal window type in the clear command. this does not erase command history.
  check status of project by using: git status
+to commit fi;es do : git add -A (this adds all)
 
