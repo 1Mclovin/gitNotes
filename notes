@@ -1,0 +1,15 @@
+#Notes for the HW video
+A vcs stands for version control system.
+you can vcs for any sort of file.
+git has three main stages that it can occupy.
+commited, modified, staged.
+the origin of a project is in the git repository.
+there are three main points in a git project. those are git directory, sraging area,and the working directory.
+the pwd command prints the working directory
+cd changes the working directory.to go back to a cd main folder you do cd~.
+to list the files in a directory you do ls
+to list a new fileyou use <touch>
+create a new folder you use mkdir
+to check your git username type in as follows : git config user.name
+git manual : man git
+ git init : this initializes a repository
