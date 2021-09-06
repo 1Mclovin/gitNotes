@@ -20,4 +20,5 @@ to commit fi;es do : git add -A (this adds all)
 git reset--soft :regroup changes into different commits
 git reset   : default reset.
 git reset--hard : this will make the most changes for everything
-
+git is a versitile tool that can be used to collaborate with others.
+this text here is a straight up test.
